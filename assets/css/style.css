@@ -381,7 +381,7 @@ h1 span {
 /* For Our Global CSSS */
 
 .scroll-down{
-	margin-top:100px;
+	margin-top:50px;
 	text-transform:uppercase;
 	text-align:center;
 }
@@ -472,12 +472,12 @@ h1 span {
   overflow: hidden;
 }
 .home-details{
-	margin-top:150px;
+	margin-top:20px;
 	color:#5C5C5C;
 	text-transform:uppercase;
 }
 .home-details .logo{
-	margin-bottom:50px;
+	margin-bottom:20px;
 }
 
 .home-details .home-title h1{
